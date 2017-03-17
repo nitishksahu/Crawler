@@ -1,0 +1,40 @@
+Name: Nitish Kumar Sahu
+USC ID: 9147413555
+News site crawled: http://www.nytimes.com
+==================================================
+Fetch Statistics:
+==================================================
+fetches attempted: 20000
+fetches succeeded: 15568
+fetches aborted: 4403
+fetches failed: 29
+
+Outgoing URLs:
+==================================================
+Total URLs extracted: 478301
+# unique URLs extracted: 186305
+# unique URLs extracted within nytimes: 85798
+# unique URLs outside nytimes: 100507
+
+Status Code:
+==================================================
+503 Service Unavailable : 3
+404 Not Found : 25
+303 MOVED Temporarily : 65
+302 MOVED Temporarily : 13
+301 MOVED Permanently : 4325
+410 Gone : 1
+200 OK : 15568
+
+File Sizes:
+==================================================
+< 1KB: 2
+1KB ~ < 10KB: 40
+10KB ~ < 100KB: 7900
+100KB ~ < 1MB: 7561
+>= 100MB: 39
+
+Content Types:
+==================================================
+image/png: 11
+text/html: 15528
